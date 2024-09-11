@@ -78,6 +78,7 @@ Crear la página de creación y el formulario correspondiente.
 Añadir estilos y asegurarse de que la aplicación sea responsive.
 
 Requerimientos:
+
 La aplicación debe tener tres páginas:
 
 Página de inicio: muestra una lista de tareas y un enlace para crear una nueva tarea.
